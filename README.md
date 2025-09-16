@@ -3,6 +3,7 @@
 
 This backend service tackles the challenge of lead qualification. It intelligently analyzes a list of prospects against a specific product offer, assigning each lead an intent score (**High**, **Medium**, or **Low**) based on a smart combination of fixed rules and dynamic AI analysis.
 
+Live at: https://hire-score-1.onrender.com
 
 ## Technology Used
 
